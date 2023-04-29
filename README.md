@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/qiYvmhB2dO4AAAAC/oreki-houtarou-sip.gif"  />
+<img align="right" height="125" src="https://media.tenor.com/qiYvmhB2dO4AAAAC/oreki-houtarou-sip.gif"  />
 
 ###
 
