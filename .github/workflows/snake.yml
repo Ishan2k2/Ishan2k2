@@ -7,14 +7,17 @@ on:
   workflow_dispatch:
 
   push:
-    branches:
+   branches:
     - master
-
+permissions:
+ contents: write
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
