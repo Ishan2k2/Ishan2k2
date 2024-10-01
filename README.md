@@ -19,10 +19,6 @@
 
 ###
 
-<img align="right" height="125" src="https://media.tenor.com/qiYvmhB2dO4AAAAC/oreki-houtarou-sip.gif"  />
-
-###
-
 <h2 align="left">About Me 🖊️</h2>
 
 ###
